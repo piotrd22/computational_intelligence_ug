@@ -2006,3 +2006,5 @@
 2023-04-07 18:04:38,830 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.0, best pos: [7.55985543 3.40968054 6.26523566 2.17085094 5.21224641 1.04868049
  4.87703445 0.48574983]
 2023-04-07 18:04:38,844 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-04-07 18:04:44,031 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.0, best pos: [7.12505444 1.43902527 3.57161738 0.65853891 5.00751242 5.17680028
+ 4.88369251 2.16939647]
