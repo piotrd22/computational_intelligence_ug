@@ -1,0 +1,9 @@
+Frozen - # Gra "FrozenLake8x8-v1" jest przykładem gry z dyskretnym stanem gry i dyskretnym zestawem akcji.
+# W tej grze, stan gry jest reprezentowany przez numer pola na planszy 8x8.
+# Natomiast akcja jest reprezentowana jako pola, w ktorych mozna sie poruszac (gora, dol, lewo, prawo).
+
+Mountain Car - # Stan gry jest ciągły (pozycja samochodu, prędkość), ale dostępne akcje to jedynie "przyspiesz" w lewo, "przyspiesz" w prawo lub "nie rób nic".
+# Przykład gry z kategorią "Stan gry jest ciągły, ale zestaw akcji jest dyskretny"
+
+Pendulum - # Stan gry jest ciągły (kąt wahadła, prędkość), a akcje to wartość siły, jaką gracz chce przyłożyć do wahadła w kierunku obrotu.
+# Przyład gry z ciągłym stanem gry i ciągłym zestawem akcji
